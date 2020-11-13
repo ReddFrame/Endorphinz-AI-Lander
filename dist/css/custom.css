@@ -1,0 +1,91 @@
+.button-primary {
+    background: #f9f61b !important;
+    color: #000 !important;
+}
+
+.button:hover {
+    background: #f9f61b !important;
+    color: #000 !important;
+    transition: ease-in-out 0.3s !important;
+}
+
+.header-logo-image {
+    max-width: 250px !important;
+}
+
+.site-header::before,
+.pricing-section {
+    background-color: #000 !important;
+}
+
+.header-logo-image {
+    max-width: 200px;
+}
+
+.hero {
+    background-color: #f9f61b !important;  
+}
+
+#feat {
+    background-color: #f9f61b !important;
+    color: #000 !important;
+}
+
+#feat h4 {
+    color: #000 !important;
+}
+
+.cta-inner {
+    margin-top: 40px;
+}
+
+.feature-icon i {
+    font-size: 60px;
+}
+
+.pricing-table::before  {
+background-image: url("/src/images/cta-illustration.png") !important;
+background-position: center center !important;
+background-size: cover !important;
+background-repeat: no-repeat !important;
+}
+
+.hero-figure-box-03 {
+    background: linear-gradient(to left top, #f9f61b, rgba(0,191,251,0));
+}
+
+.hero-figure-box-04 {
+    background: linear-gradient(to left top, #f9f61b, rgba(2,112,215,0));
+}
+
+.hero-figure-box-09,
+.hero-figure-box-10 {
+    background: #f9f61b;
+}
+
+.hero-figure-box-01,
+.hero-figure-box-02,
+.hero-figure-box-08  {
+    background: linear-gradient(to left top, #000, rgb(249,246,27)) !important;
+}
+
+.hero-figure::before,
+.hero-figure::after,
+.cta-inner::before {
+    background-image: unset;
+}
+
+.cta-inner {
+    background-color: #000 !important;
+}
+
+.endorphinz-devices {
+    position: absolute;
+    z-index: 9;
+}
+
+.site-footer,
+.main,
+.body-wrap {
+    background-color: #111 !important;
+}
